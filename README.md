@@ -59,6 +59,7 @@ This project was built as part of an assignment to demonstrate frontend, backend
 
 ## 📂 Project Structure
 
+```
 project/
 │
 ├── frontend/
@@ -76,7 +77,7 @@ project/
 │ │ └── server.js
 │
 └── README.md
-
+```
 
 ---
 
